@@ -24,7 +24,7 @@ btn1 = Button(text="Game start", font=("consolas", 15), width=20, command = btnc
 btn1.place(x=125, y=290)
 
 #스코어 보드 버튼
-btn2 = Button(text="High Score ", font=("consolas", 15), width=20)
+btn2 = Button(text="Git_test ", font=("consolas", 15), width=20)
 btn2.place(x=125, y=370)
 
 #엔딩 크레딧 버튼
